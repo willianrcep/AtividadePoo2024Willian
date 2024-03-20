@@ -30,7 +30,7 @@ public class App {
         while (opcao.equals("s") || opcao.equals("S")) {
             int opc = 0;
 
-            System.out.println("--------DIGITE O NUMERO CORRESPONDENTE A FUNÇÃO QUE DESEJA!-----");
+            System.out.println("--------DIGITE O NUMERO CORRESPONDENTE A OPCAO QUE DESEJA!-----");
             System.out.println(" 1 - SOMAR DOIS VALORES!");
             System.out.println(" 2 - PRODUTO!");
             System.out.println(" 3 - MEDIA ARITMETICA!");
